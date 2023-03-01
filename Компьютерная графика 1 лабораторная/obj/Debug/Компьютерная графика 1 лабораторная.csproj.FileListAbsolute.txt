@@ -1,0 +1,11 @@
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.csproj.AssemblyReference.cache
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.csproj.SuggestedBindingRedirects.cache
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Diagram_Graphic_Lab.Form1.resources
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная_графика_1_лабораторная.Properties.Resources.resources
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.csproj.GenerateResource.cache
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.csproj.CoreCompileInputs.cache
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\bin\Debug\Компьютерная графика 1 лабораторная.exe.config
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\bin\Debug\Компьютерная графика 1 лабораторная.exe
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\bin\Debug\Компьютерная графика 1 лабораторная.pdb
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.exe
+D:\Users\sffsd\source\repos\Компьютерная графика 1 лабораторная\obj\Debug\Компьютерная графика 1 лабораторная.pdb
